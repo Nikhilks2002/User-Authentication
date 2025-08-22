@@ -74,7 +74,7 @@ login-page/
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/login-page.git
+git clone https://github.com/Nikhilks2002/User-Authentication.git
 cd login-page
 
 # Install dependencies
@@ -125,9 +125,8 @@ npm run build
 
 The production build is created in the `dist/` folder. You can deploy it using platforms like:
 
-* [Vercel](https://vercel.com/)
-* [Netlify](https://www.netlify.com/)
-* [GitHub Pages](https://pages.github.com/)
+
+* [Netlify]([https://www.netlify.com/](https://68a87484bff9d40a4984bde3--user-autihication-page-react.netlify.app/))
 
 To preview the build locally:
 
@@ -139,7 +138,7 @@ npm run preview
 
 ## 🙋‍♂️ Author
 
-**Your Name**
+**Nikhil Kumar Singh**
 🔗 [GitHub](https://github.com/Nikhilks2002/User-Authentication/)
 
 ---
