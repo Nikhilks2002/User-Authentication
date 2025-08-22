@@ -1,15 +1,3 @@
-Perfect — now that you have a `Slides-photos` folder with screenshots and a more detailed project structure, I’ll update the `README.md` to reflect:
-
-1. 🔧 Full folder structure
-2. 🖼️ Screenshots from the `Slides-photos` folder
-3. 🛠️ Tech stack + working explanation
-4. 📦 Project features + how it works
-
----
-
-Here’s your **updated, full GitHub-friendly `README.md`**:
-
-```markdown
 # 🔐 React Login Page — Vite + React 19
 
 This project is a modern **Login Page UI** built with **React 19** and **Vite 7**, developed as a job assignment. It features a clean UI, modular component structure, ESLint integration, and optimized development environment with Hot Module Replacement (HMR).
