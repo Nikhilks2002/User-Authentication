@@ -125,12 +125,12 @@ npm run lint
 npm run build
 ```
 
-The production build is created in the `dist/` folder. You can deploy it using platforms like:
+### 🌐 Live Demo
 
+You can view the deployed login page on **Netlify** here:
 
-* [Netlify]([https://www.netlify.com/](https://68a87484bff9d40a4984bde3--user-autihication-page-react.netlify.app/))
+🔗 [https://68a87484bff9d40a4984bde3--user-autihication-page-react.netlify.app](https://68a87484bff9d40a4984bde3--user-autihication-page-react.netlify.app)
 
-To preview the build locally:
 
 ```bash
 npm run preview
