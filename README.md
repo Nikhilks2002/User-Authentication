@@ -86,6 +86,8 @@ npm run dev
 
 Now visit: [http://localhost:5173](http://localhost:5173)
 
+⚠️ **Note**: This layout is currently designed and optimized for **desktop/laptop screens only**. It is **not mobile responsive**.
+
 ---
 
 ## 🧪 Scripts
@@ -140,7 +142,7 @@ npm run preview
 
 **Nikhil Kumar Singh**
 🔗 [GitHub](https://github.com/Nikhilks2002/User-Authentication/)
-
+📧 [Email ID](nikhilkumarsingh9680@gmail.com)
 ---
 
 ## 📄 License
@@ -152,7 +154,7 @@ This project is licensed under the [ISC License](LICENSE).
 ## 💡 Notes
 
 * Screenshots are located in the `Slides-photos/` folder and used in this README.
-* Project created as part of a job assignment demonstrating React, Vite, and frontend tooling proficiency.
+
 
 ```
 
