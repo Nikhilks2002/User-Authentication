@@ -1,0 +1,110 @@
+*{
+  background-color: white;
+}
+h1{
+  color: black;
+
+}
+p{
+  color: black;
+}
+#fpage{
+  justify-content: center;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  
+}
+#fpage button{
+background-color: purple;
+display: block;
+width: 100%;
+
+}
+#bt1,#bt2{
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+h2{
+  color: black;
+}
+p{
+  color: black;
+}
+
+#spage{
+  justify-content: center;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  
+}
+#spage  input{
+ display: block;
+width: 100%;
+margin-bottom: 10px;
+height: 35px;
+border: 2px solid grey;
+border-radius:9px;
+background-color: black;
+
+}
+#spage button{
+  background-color: purple;
+  width: 100%;
+  
+}
+#thpage{
+justify-content: center;
+  text-align: center;
+  margin-left: 200px;
+  margin-right: 200px;
+  
+}
+#thpage input{display: block;
+width: 100%;
+margin-bottom: 10px;
+height: 35px;
+border: 2px solid grey;
+border-radius:9px;
+background-color: black;
+ 
+}
+#thpage button{
+  background-color: purple;
+  width: 100%;
+  
+}
+input{
+  background-color: black;
+  background-color: white;
+}
+#frpage{
+justify-content: center;
+  text-align: center;
+ margin-left: 400px;
+ width: 500px;
+ 
+
+}
+#frpage input{
+display: block;
+width: 100%;
+margin-bottom: 10px;
+height: 35px;
+border: 2px solid grey;
+border-radius:9px;
+background-color: black;
+}
+#frpage button{
+  background-color: purple;
+  width: 100%;
+  
+}
+#Profileimage{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
