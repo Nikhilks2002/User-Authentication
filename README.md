@@ -138,12 +138,10 @@ npm run preview
 
 ---
 
-## 🙋‍♂️ Author
+## 🙋‍♂️ Author **Nikhil Kumar Singh**
 
-**Nikhil Kumar Singh**
-
-# 🔗 [GitHub](https://github.com/Nikhilks2002/User-Authentication/)
-# 📧 [Email ID](nikhilkumarsingh9680@gmail.com)
+🔗 [GitHub](https://github.com/Nikhilks2002/User-Authentication/)
+📧 [Email ID](nikhilkumarsingh9680@gmail.com)
 ---
 
 ## 📄 License
