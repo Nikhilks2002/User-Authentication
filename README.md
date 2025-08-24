@@ -150,8 +150,3 @@ This project is licensed under the [ISC License](LICENSE).
 
 ---
 
-## 💡 Notes
-
-* Screenshots are located in the `Slides-photos/` folder and used in this README.
-  
----
